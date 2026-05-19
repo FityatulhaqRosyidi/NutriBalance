@@ -209,6 +209,9 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# NutriBalance generated files
+output/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
@@ -216,3 +219,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+PEMBAGIAN.md
