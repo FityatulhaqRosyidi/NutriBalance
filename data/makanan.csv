@@ -1,0 +1,26 @@
+name,category,carbs_g,protein_g,fat_g,calories_kcal
+Nasi putih,karbohidrat,40,4,1,180
+Nasi merah,karbohidrat,36,4,1.5,170
+Oatmeal,karbohidrat,27,5,3,150
+Roti gandum,karbohidrat,24,7,2,140
+Kentang rebus,karbohidrat,30,3,0.2,130
+Ubi rebus,karbohidrat,32,2,0.2,140
+Quinoa,karbohidrat,39,8,4,222
+Dada ayam,protein,0,31,4,165
+Telur ayam,protein,1,6,5,78
+Ikan tuna,protein,0,28,1,130
+Tempe,protein,9,19,11,190
+Tahu,protein,3,10,5,90
+Greek yogurt,protein,6,10,0,95
+Susu rendah lemak,protein,12,8,3,110
+Daging sapi lean,protein,0,26,10,210
+Salmon,protein,0,25,13,230
+Edamame,protein,14,17,8,190
+Kacang merah,protein,40,15,1,225
+Alpukat,lemak,12,2,15,180
+Kacang almond,lemak,6,6,14,170
+Minyak zaitun,lemak,0,0,14,126
+Pisang,buah,27,1,0.3,105
+Apel,buah,25,0.5,0.3,95
+Brokoli,sayur,7,3,0.4,50
+Bayam,sayur,4,3,0.4,35
